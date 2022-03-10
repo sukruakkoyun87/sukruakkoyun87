@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sukruakkoyun" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="sukruakkoyun" height="30" width="30" /></a>
+  <a href="https://www.hackerrank.com/sukruakkoyun871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sadsadsad" height="30" width="40" /></a>
 </p>
 
 <br/>  
